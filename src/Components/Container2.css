@@ -1,0 +1,136 @@
+.innerrow-2 {
+    margin-left: 15px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+     
+}
+.content {
+    text-align: right;
+    color: black;
+}
+.sec-header h2 {
+    position: relative;
+    top: 63px;
+    margin-right: 10px;
+    margin-left: 60%;
+    margin-bottom: 0;
+    color: #1da09c;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.5em;
+}
+.content-section{
+    margin-left: -2%;
+    
+    
+}
+ .icon.teal {
+    position: relative;
+    margin-left: 116%;
+    margin-bottom: 15px;
+    width: 56px;
+    height: 87px;
+    border-radius: 10px;
+    display: inline-block;
+    top: 0;
+    transition: all 0.2s ease;
+    background: linear-gradient(to bottom right, #4db6ac 0%, #00796b 100%);
+    color: #34a297;
+}
+ .circle {
+    width: 53px;
+    height: 53px;
+    position: absolute;
+    background: #fff;
+    z-index: 10;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; 
+    margin: auto;
+    text-align: center;
+}
+.contentlink2{
+    color:black;
+    width: 530px;
+    font-size: 15px;
+    margin-top: px;text-align: right;
+}
+.cnt2{
+    opacity: 0.5;
+    line-height: 1.9em;
+}
+.feature-icon-base .icon .circle .fa {
+    font-size: 26px;
+    margin-top: 14px;
+}
+.feature-icon-base .icon::before {
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+    background: inherit;
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    transform: rotate(60deg);
+     
+
+}
+.feature-icon-base .icon::after{
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+    background: inherit;
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    transform: rotate(-60deg);   
+}
+.content p {
+    opacity: 0.5;
+    font-weight: 400;
+    margin: auto;
+    max-width: 600px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.9em;
+    letter-spacing: 0.03em;
+
+}
+ .alink2{
+    text-decoration: none;
+    margin-top: 15px;
+    opacity: 1 !important;
+    cursor: pointer;
+    color: #0088cc;
+}
+
+.flipimg{
+    margin-top: -60%;
+    margin-left: 115%;
+    transform: translateY(-3%);
+    animation: floater 8s infinite;
+    transition: ease 0.5s;
+    
+     
+   
+}
+@keyframes floater {
+    0%{transform: translateY(-3%);transition: ease 8s;}
+    50%{transform: translateY(3%);transition: ease 9s;}
+  }
+
+  .flipimgmain{
+    margin-right: -70px;
+  }

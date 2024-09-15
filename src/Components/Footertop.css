@@ -1,0 +1,30 @@
+.footertopmain{
+    margin-top: 20%;
+    margin-bottom: -35%;
+    border-top: 1px solid  #dddddd ;
+    position:static;
+}
+.foottopmain-cnt{
+    text-align: center;
+    margin-top: 7%;
+   
+    
+}
+.footpara{
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.9em;
+    letter-spacing: 0.03em;
+    opacity: 0.5;
+    font-weight: 400;
+    padding-top: 75px;
+}
+.footcnt{
+opacity: 0.5;
+}
+.joinlink{
+    text-align: center;
+}
+.joinlink a{
+    text-decoration: none;
+}

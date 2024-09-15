@@ -1,0 +1,168 @@
+.workspace-app{
+
+    margin-left: 15%;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+/*
+.workspace-playground{
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    vertical-align: middle;
+  
+}
+.nav-toolbar{
+    background: #ecf0f1;
+    border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding: 5px 5px 0 5px;
+    position: relative;
+    z-index: 1;
+    height: 40px;
+
+}
+.nav-right{
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    border: 1px solid #dddddd;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom: none;
+    max-width: calc(100% - 240px);
+    height: 36px;
+    margin-bottom: -1px;
+}
+.rightbtn{
+         display: inline-block;  
+        margin-top: -1px;
+}
+button.active{
+    border-top: 3px solid #1da09c;
+    border-bottom: 1px solid white;
+    background: white;
+    padding-top: 4px;
+    cursor: default;
+}
+.nav-toolbar .nav-right button {
+    height: 36px;
+    min-width: 55px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border: 1px solid #dddddd;
+    border-radius: 0;
+    border-top: none;
+    background: #ecf0f1;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-align: center;
+    font-weight: 300;
+    font-size: 13px;
+}
+.pull-right {
+    float: right !important;
+    margin-top: -38px;
+}
+.button-set-base button{
+-webkit-transition: 0.4s all;
+-o-transition: 0.4s all;
+transition: 0.4s all;
+height: 30px;
+padding: 0 8px;
+font-weight: 300;
+font-size: 13px;
+border-radius: 4px;
+}
+.button-set-base button:not(:first-child) {
+    margin-left: 5px;
+}
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+.editor-base {
+    height: calc(100% - 40px);
+    position: relative;
+    border-top: 1px solid #dddddd;
+}
+.float-panel-cnt {
+    height: calc(100% + 2px);
+    position: absolute;
+    margin-top: -1px;
+    z-index: 10;
+    right: -1px;
+    border-bottom-right-radius: 5px;
+}
+.float-panel-cnt.disappear {
+    width: 0;
+    min-width: 0;
+}
+.float-panel-cnt .drawer-btn {
+    width: 25px;
+    position: absolute;
+    left: 0;
+    margin-left: -25px;
+    margin-top: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 0;
+    padding-right: 5px;
+    text-align: right;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 1020px;
+    border-bottom-left-radius: 1020px;
+    border: #dddddd 1px solid;
+    background: white;
+}
+.cheicon {
+    display: inline-block;
+    font: normal normal normal 14px / 1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+}
+#editorconsole{
+    display: none;
+}
+.codemirror-scrollbar {
+    right: 0;
+    top: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.codemirror-gutter-background{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    
+}
+.codemirror-gutter-wrapper {
+    position: absolute;
+    z-index: 4;
+    background: none !important;
+    border: none !important;
+}
+.codemirror-linenumber {
+    padding: 0 3px 0 5px;
+    min-width: 20px;
+    text-align: right;
+    color: #999;
+    white-space: nowrap;
+}
+.codemirror-gutter-elt {
+    position: absolute;
+    cursor: default;
+    z-index: 4;
+}
+.CodeMirror-guttermarker-subtle {
+    color: #999;
+}*/
+ 
+.ceimg{
+    width:820px;
+    height: 400px;
+    margin-left: 2%;
+}

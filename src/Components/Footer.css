@@ -1,0 +1,46 @@
+.footermain{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #dddddd;
+    margin-top: 42%;
+    align-items: center;
+}
+.footer-left{
+    margin-left: 60px;
+     color:grey;
+     margin-top: -75px;
+     margin-bottom: -65px;
+    
+     width: 33.3%;
+     
+}
+.footer-right{
+    margin-right: 80px;
+    margin-top: -80px;
+    margin-bottom: -130px;
+    font-weight: 300;
+    color: grey;
+}
+ 
+.usimg{
+  
+    color: grey;
+}
+.footer-right a{
+    text-decoration: none;
+    padding: 5px;
+    color: grey;
+}
+ 
+.usimages{
+    height: 18px;
+}
+.us:hover{
+    text-decoration: underline;
+    
+}
+ 
+.footpara{
+    font-size: 15px;
+}
+ 

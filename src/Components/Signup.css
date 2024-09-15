@@ -1,0 +1,198 @@
+ .signup-main{
+    padding: 5px 0;
+ }
+ .signflex {
+    display: flex;
+    justify-content: space-between;
+ }
+ .nav-right-sign-cnt{
+    margin-right: 80px;
+ }
+ .navbar-left-log-cnt{
+    margin-left: 60px;
+ }
+.sig1{
+    
+    margin-left: 25px;
+    color: black;
+    opacity: 0.5;
+}
+.sig1 a:hover{
+    color: black;
+
+}
+.Premium1{
+    color:orange;
+    background-color: rgb(252, 242, 227);
+      
+    padding:5px 5px 8px 5px;
+   
+    border-radius: 10px;
+}
+.nav-sign-menu a{
+    text-decoration: none;
+}
+.nav-sign-menu{
+    margin-top: -15px;
+    margin-left: 25px;
+}
+.logopng4{
+    margin-bottom:-10px;
+    margin-top: 10px;
+}
+.nav-right-sign-cnt{
+    margin-top: 10px;
+}
+.nav-right-sign-cnt a{
+    text-decoration: none;
+}
+.sig2{
+    margin-left: 25px;
+    color: orange;
+}
+.signpara{
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.signuppara{
+    color: grey;
+}
+.p2{
+    color: grey;
+}
+/* footer 88*/
+
+
+.footersign{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #dddddd;
+    align-items: center;
+}
+.footer-left-sign{
+    margin-left: 23%;
+    color:grey;
+}
+.footparasign{
+    margin-left: -55%;
+     margin-bottom: -2%;
+     
+}
+.footer-left-sign a{
+    text-decoration: none;
+    color:grey;
+  
+}
+
+.linkssign{
+    margin-top: -22px;
+     
+}
+.usimages:hover{
+    text-decoration: underline;
+    
+}
+.sign-in-link-a{
+    text-decoration: none;
+    color: #575758;
+}
+.usimages{
+    text-decoration: none;
+    color: grey;
+    margin-bottom: 5px;
+}
+.footer-right-sign{
+ 
+    margin-right:40px ;
+    font-weight: 300;
+    color: grey;
+    text-align: center;
+}
+
+
+/*  sign in*/
+ 
+.signinbox{
+    background-color: #cfd8dc;
+}
+
+.signinboxborder{
+    height: 640px;
+    width: 380px;
+    border: 1px solid;
+    border: none;
+    margin-left: 36%;
+    margin-top: -15px;
+    background-color: white;
+     
+}
+.leetcodesign{
+    margin-left: 35%;
+    margin-top: 35px;
+}
+.classuser{
+    padding: 8.85px 13px;
+    font-size: 14px;
+    width: 80%;
+    box-sizing: border-box;
+    color: #546e7a;
+    border: 1px solid #cfd8dc;
+    border-radius: 3px;
+    font-weight: 300;
+    margin-top: 40px;
+    margin-left: 10%;
+
+}
+.passwordsign,.passwordsign2,.emailsign{
+    padding: 8.85px 13px;
+    font-size: 14px;
+    width: 80%;
+    box-sizing: border-box;
+    color: #546e7a;
+    border: 1px solid #cfd8dc;
+    border-radius: 3px;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-left: 10%;
+
+}
+ .cloud{
+    width:70%;
+    margin-left: 10%;
+    margin-top: 20px;
+ }
+ .signupbtn{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5px;
+    background: linear-gradient(215deg, #546e7a, #37474f);
+    border: none;
+    padding: 5px 0;
+    border-radius: 3px;
+ }
+ .signuppara{
+    text-align: center;
+    margin-top: 30px;
+ }
+ .p2{
+    text-align: center;
+    margin-top: 30px;
+    
+ }
+ .goolicon{
+    margin-left: 160px;
+    opacity: 0.5;
+ }
+ .eye{
+    margin-left: -25px;
+    
+ }
+ .fb{
+    opacity: 0.5;
+ }
+ .githu{
+    opacity: 0.5;
+ }
+ 
